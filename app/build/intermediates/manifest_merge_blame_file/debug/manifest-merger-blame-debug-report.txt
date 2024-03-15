@@ -1,0 +1,505 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.tripapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml
+10
+11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-database:20.1.0] C:\Users\praja\.gradle\caches\transforms-3\d8e19da88a879af56bc8b96d6ea476f9\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:24:5-79
+13-->[com.google.firebase:firebase-database:20.1.0] C:\Users\praja\.gradle\caches\transforms-3\d8e19da88a879af56bc8b96d6ea476f9\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:24:22-76
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[com.google.firebase:firebase-database:20.1.0] C:\Users\praja\.gradle\caches\transforms-3\d8e19da88a879af56bc8b96d6ea476f9\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:25:5-67
+14-->[com.google.firebase:firebase-database:20.1.0] C:\Users\praja\.gradle\caches\transforms-3\d8e19da88a879af56bc8b96d6ea476f9\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:25:22-64
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->[com.google.android.gms:play-services-measurement-api:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\1d13f98e17f981cdba71c7982eb5af21\transformed\jetified-play-services-measurement-api-21.2.1\AndroidManifest.xml:24:5-68
+15-->[com.google.android.gms:play-services-measurement-api:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\1d13f98e17f981cdba71c7982eb5af21\transformed\jetified-play-services-measurement-api-21.2.1\AndroidManifest.xml:24:22-65
+16    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+16-->[com.google.android.gms:play-services-measurement-api:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\1d13f98e17f981cdba71c7982eb5af21\transformed\jetified-play-services-measurement-api-21.2.1\AndroidManifest.xml:25:5-79
+16-->[com.google.android.gms:play-services-measurement-api:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\1d13f98e17f981cdba71c7982eb5af21\transformed\jetified-play-services-measurement-api-21.2.1\AndroidManifest.xml:25:22-76
+17    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+17-->[com.google.android.gms:play-services-measurement:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\e8ccdceab0c76d6f347b357f8c24e25a\transformed\jetified-play-services-measurement-21.2.1\AndroidManifest.xml:26:5-110
+17-->[com.google.android.gms:play-services-measurement:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\e8ccdceab0c76d6f347b357f8c24e25a\transformed\jetified-play-services-measurement-21.2.1\AndroidManifest.xml:26:22-107
+18
+19    <permission
+19-->[androidx.core:core:1.9.0] C:\Users\praja\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+20        android:name="com.example.tripapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+20-->[androidx.core:core:1.9.0] C:\Users\praja\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+21        android:protectionLevel="signature" />
+21-->[androidx.core:core:1.9.0] C:\Users\praja\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+22
+23    <uses-permission android:name="com.example.tripapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+23-->[androidx.core:core:1.9.0] C:\Users\praja\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+23-->[androidx.core:core:1.9.0] C:\Users\praja\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+24
+25    <application
+25-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:5:5-134:19
+26        android:allowBackup="true"
+26-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:6:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.9.0] C:\Users\praja\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+28        android:dataExtractionRules="@xml/data_extraction_rules"
+28-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:7:9-65
+29        android:debuggable="true"
+30        android:fullBackupContent="@xml/backup_rules"
+30-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:8:9-54
+31        android:icon="@mipmap/ic_launcher"
+31-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:9:9-43
+32        android:label="@string/app_name"
+32-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:10:9-41
+33        android:roundIcon="@mipmap/ic_launcher_round"
+33-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:11:9-54
+34        android:supportsRtl="true"
+34-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:12:9-35
+35        android:testOnly="true"
+36        android:theme="@style/Theme.TripApp" >
+36-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:13:9-45
+37        <activity
+37-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:15:9-21:20
+38            android:name="com.example.tripapp.Rcard4"
+38-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:16:13-35
+39            android:exported="false" >
+39-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:17:13-37
+40            <meta-data
+40-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:18:13-20:36
+41                android:name="android.app.lib_name"
+41-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:19:17-52
+42                android:value="" />
+42-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:20:17-33
+43        </activity>
+44        <activity
+44-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:22:9-28:20
+45            android:name="com.example.tripapp.Rcard3"
+45-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:23:13-35
+46            android:exported="false" >
+46-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:24:13-37
+47            <meta-data
+47-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:18:13-20:36
+48                android:name="android.app.lib_name"
+48-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:19:17-52
+49                android:value="" />
+49-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:20:17-33
+50        </activity>
+51        <activity
+51-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:29:9-35:20
+52            android:name="com.example.tripapp.Rcard2"
+52-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:30:13-35
+53            android:exported="false" >
+53-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:31:13-37
+54            <meta-data
+54-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:18:13-20:36
+55                android:name="android.app.lib_name"
+55-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:19:17-52
+56                android:value="" />
+56-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:20:17-33
+57        </activity>
+58        <activity
+58-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:36:9-42:20
+59            android:name="com.example.tripapp.Rcard1"
+59-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:37:13-35
+60            android:exported="false" >
+60-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:38:13-37
+61            <meta-data
+61-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:18:13-20:36
+62                android:name="android.app.lib_name"
+62-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:19:17-52
+63                android:value="" />
+63-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:20:17-33
+64        </activity>
+65        <activity
+65-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:43:9-49:20
+66            android:name="com.example.tripapp.Search"
+66-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:44:13-35
+67            android:exported="false" >
+67-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:45:13-37
+68            <meta-data
+68-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:18:13-20:36
+69                android:name="android.app.lib_name"
+69-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:19:17-52
+70                android:value="" />
+70-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:20:17-33
+71        </activity>
+72        <activity
+72-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:50:9-56:20
+73            android:name="com.example.tripapp.Pcard4"
+73-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:51:13-35
+74            android:exported="false" >
+74-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:52:13-37
+75            <meta-data
+75-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:18:13-20:36
+76                android:name="android.app.lib_name"
+76-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:19:17-52
+77                android:value="" />
+77-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:20:17-33
+78        </activity>
+79        <activity
+79-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:57:9-63:20
+80            android:name="com.example.tripapp.Pcard3"
+80-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:58:13-35
+81            android:exported="false" >
+81-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:59:13-37
+82            <meta-data
+82-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:18:13-20:36
+83                android:name="android.app.lib_name"
+83-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:19:17-52
+84                android:value="" />
+84-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:20:17-33
+85        </activity>
+86        <activity
+86-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:64:9-70:20
+87            android:name="com.example.tripapp.Pcard2"
+87-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:65:13-35
+88            android:exported="false" >
+88-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:66:13-37
+89            <meta-data
+89-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:18:13-20:36
+90                android:name="android.app.lib_name"
+90-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:19:17-52
+91                android:value="" />
+91-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:20:17-33
+92        </activity>
+93        <activity
+93-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:71:9-79:20
+94            android:name="com.example.tripapp.Form"
+94-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:72:13-33
+95            android:exported="true"
+95-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:73:13-36
+96            android:label="Booking Form"
+96-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:74:13-41
+97            android:parentActivityName="com.example.tripapp.MainActivity" >
+97-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:75:13-55
+98            <meta-data
+98-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:18:13-20:36
+99                android:name="android.app.lib_name"
+99-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:19:17-52
+100                android:value="" />
+100-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:20:17-33
+101        </activity>
+102        <activity
+102-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:80:9-88:20
+103            android:name="com.example.tripapp.Profil"
+103-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:81:13-35
+104            android:exported="true"
+104-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:82:13-36
+105            android:label="Profil"
+105-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:83:13-35
+106            android:parentActivityName="com.example.tripapp.MainActivity" >
+106-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:84:13-55
+107            <meta-data
+107-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:18:13-20:36
+108                android:name="android.app.lib_name"
+108-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:19:17-52
+109                android:value="" />
+109-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:20:17-33
+110        </activity>
+111        <activity
+111-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:89:9-95:20
+112            android:name="com.example.tripapp.PCard1"
+112-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:90:13-35
+113            android:exported="true" >
+113-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:91:13-36
+114            <meta-data
+114-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:18:13-20:36
+115                android:name="android.app.lib_name"
+115-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:19:17-52
+116                android:value="" />
+116-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:20:17-33
+117        </activity>
+118        <activity
+118-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:96:9-102:20
+119            android:name="com.example.tripapp.ForgotPassword"
+119-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:97:13-43
+120            android:exported="true" >
+120-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:98:13-36
+121            <meta-data
+121-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:18:13-20:36
+122                android:name="android.app.lib_name"
+122-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:19:17-52
+123                android:value="" />
+123-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:20:17-33
+124        </activity>
+125        <activity
+125-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:103:9-109:20
+126            android:name="com.example.tripapp.Login"
+126-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:104:13-34
+127            android:exported="true" >
+127-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:105:13-36
+128            <meta-data
+128-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:18:13-20:36
+129                android:name="android.app.lib_name"
+129-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:19:17-52
+130                android:value="" />
+130-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:20:17-33
+131        </activity>
+132        <activity
+132-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:110:9-122:20
+133            android:name="com.example.tripapp.signUp"
+133-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:111:13-35
+134            android:exported="true" >
+134-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:112:13-36
+135            <intent-filter>
+135-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:113:13-117:29
+136                <action android:name="android.intent.action.MAIN" />
+136-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:114:17-69
+136-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:114:25-66
+137
+138                <category android:name="android.intent.category.LAUNCHER" />
+138-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:116:17-77
+138-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:116:27-74
+139            </intent-filter>
+140
+141            <meta-data
+141-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:18:13-20:36
+142                android:name="android.app.lib_name"
+142-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:19:17-52
+143                android:value="" />
+143-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:20:17-33
+144        </activity>
+145        <activity
+145-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:123:9-129:20
+146            android:name="com.example.tripapp.MainActivity"
+146-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:124:13-41
+147            android:exported="true" >
+147-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:125:13-36
+148            <meta-data
+148-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:18:13-20:36
+149                android:name="android.app.lib_name"
+149-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:19:17-52
+150                android:value="" />
+150-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:20:17-33
+151        </activity>
+152
+153        <meta-data
+153-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:131:9-133:57
+154            android:name="preloaded_fonts"
+154-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:132:13-43
+155            android:resource="@array/preloaded_fonts" />
+155-->C:\Users\praja\AndroidStudioProjects\TripApp\app\src\main\AndroidManifest.xml:133:13-54
+156
+157        <service
+157-->[com.google.firebase:firebase-auth-ktx:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\43192e0f54c4e979651734178a06e91c\transformed\jetified-firebase-auth-ktx-21.2.0\AndroidManifest.xml:8:9-14:19
+158            android:name="com.google.firebase.components.ComponentDiscoveryService"
+158-->[com.google.firebase:firebase-auth-ktx:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\43192e0f54c4e979651734178a06e91c\transformed\jetified-firebase-auth-ktx-21.2.0\AndroidManifest.xml:9:13-84
+159            android:directBootAware="true"
+159-->[com.google.firebase:firebase-common:20.3.2] C:\Users\praja\.gradle\caches\transforms-3\2a0fad2de11aae80af632de1808449b7\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:34:13-43
+160            android:exported="false" >
+160-->[com.google.firebase:firebase-auth-ktx:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\43192e0f54c4e979651734178a06e91c\transformed\jetified-firebase-auth-ktx-21.2.0\AndroidManifest.xml:10:13-37
+161            <meta-data
+161-->[com.google.firebase:firebase-auth-ktx:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\43192e0f54c4e979651734178a06e91c\transformed\jetified-firebase-auth-ktx-21.2.0\AndroidManifest.xml:11:13-13:85
+162                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar"
+162-->[com.google.firebase:firebase-auth-ktx:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\43192e0f54c4e979651734178a06e91c\transformed\jetified-firebase-auth-ktx-21.2.0\AndroidManifest.xml:12:17-116
+163                android:value="com.google.firebase.components.ComponentRegistrar" />
+163-->[com.google.firebase:firebase-auth-ktx:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\43192e0f54c4e979651734178a06e91c\transformed\jetified-firebase-auth-ktx-21.2.0\AndroidManifest.xml:13:17-82
+164            <meta-data
+164-->[com.google.firebase:firebase-firestore-ktx:24.4.5] C:\Users\praja\.gradle\caches\transforms-3\d85f7d2abf4da8067859bd86071a708f\transformed\jetified-firebase-firestore-ktx-24.4.5\AndroidManifest.xml:14:13-16:85
+165                android:name="com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreKtxRegistrar"
+165-->[com.google.firebase:firebase-firestore-ktx:24.4.5] C:\Users\praja\.gradle\caches\transforms-3\d85f7d2abf4da8067859bd86071a708f\transformed\jetified-firebase-firestore-ktx-24.4.5\AndroidManifest.xml:15:17-126
+166                android:value="com.google.firebase.components.ComponentRegistrar" />
+166-->[com.google.firebase:firebase-firestore-ktx:24.4.5] C:\Users\praja\.gradle\caches\transforms-3\d85f7d2abf4da8067859bd86071a708f\transformed\jetified-firebase-firestore-ktx-24.4.5\AndroidManifest.xml:16:17-82
+167            <meta-data
+167-->[com.google.firebase:firebase-database:20.1.0] C:\Users\praja\.gradle\caches\transforms-3\d8e19da88a879af56bc8b96d6ea476f9\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:31:13-33:85
+168                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+168-->[com.google.firebase:firebase-database:20.1.0] C:\Users\praja\.gradle\caches\transforms-3\d8e19da88a879af56bc8b96d6ea476f9\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:32:17-109
+169                android:value="com.google.firebase.components.ComponentRegistrar" />
+169-->[com.google.firebase:firebase-database:20.1.0] C:\Users\praja\.gradle\caches\transforms-3\d8e19da88a879af56bc8b96d6ea476f9\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:33:17-82
+170            <meta-data
+170-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:69:13-71:85
+171                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+171-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:70:17-109
+172                android:value="com.google.firebase.components.ComponentRegistrar" />
+172-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:71:17-82
+173            <meta-data
+173-->[com.google.firebase:firebase-firestore:24.4.5] C:\Users\praja\.gradle\caches\transforms-3\4d606a59849a626c7973649dd4780d38\transformed\jetified-firebase-firestore-24.4.5\AndroidManifest.xml:19:13-21:85
+174                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+174-->[com.google.firebase:firebase-firestore:24.4.5] C:\Users\praja\.gradle\caches\transforms-3\4d606a59849a626c7973649dd4780d38\transformed\jetified-firebase-firestore-24.4.5\AndroidManifest.xml:20:17-111
+175                android:value="com.google.firebase.components.ComponentRegistrar" />
+175-->[com.google.firebase:firebase-firestore:24.4.5] C:\Users\praja\.gradle\caches\transforms-3\4d606a59849a626c7973649dd4780d38\transformed\jetified-firebase-firestore-24.4.5\AndroidManifest.xml:21:17-82
+176            <meta-data
+176-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\praja\.gradle\caches\transforms-3\a8d8232885954f487a68f4835efb796b\transformed\jetified-firebase-common-ktx-20.3.2\AndroidManifest.xml:14:13-16:85
+177                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+177-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\praja\.gradle\caches\transforms-3\a8d8232885954f487a68f4835efb796b\transformed\jetified-firebase-common-ktx-20.3.2\AndroidManifest.xml:15:17-113
+178                android:value="com.google.firebase.components.ComponentRegistrar" />
+178-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\praja\.gradle\caches\transforms-3\a8d8232885954f487a68f4835efb796b\transformed\jetified-firebase-common-ktx-20.3.2\AndroidManifest.xml:16:17-82
+179            <meta-data
+179-->[com.google.android.gms:play-services-measurement-api:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\1d13f98e17f981cdba71c7982eb5af21\transformed\jetified-play-services-measurement-api-21.2.1\AndroidManifest.xml:31:13-33:85
+180                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+180-->[com.google.android.gms:play-services-measurement-api:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\1d13f98e17f981cdba71c7982eb5af21\transformed\jetified-play-services-measurement-api-21.2.1\AndroidManifest.xml:32:17-139
+181                android:value="com.google.firebase.components.ComponentRegistrar" />
+181-->[com.google.android.gms:play-services-measurement-api:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\1d13f98e17f981cdba71c7982eb5af21\transformed\jetified-play-services-measurement-api-21.2.1\AndroidManifest.xml:33:17-82
+182            <meta-data
+182-->[com.google.firebase:firebase-installations:17.1.3] C:\Users\praja\.gradle\caches\transforms-3\e86204fb9d27dc7e947285bb3fec8b51\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:17:13-19:85
+183                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+183-->[com.google.firebase:firebase-installations:17.1.3] C:\Users\praja\.gradle\caches\transforms-3\e86204fb9d27dc7e947285bb3fec8b51\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:18:17-127
+184                android:value="com.google.firebase.components.ComponentRegistrar" />
+184-->[com.google.firebase:firebase-installations:17.1.3] C:\Users\praja\.gradle\caches\transforms-3\e86204fb9d27dc7e947285bb3fec8b51\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:19:17-82
+185        </service>
+186
+187        <provider
+187-->[com.squareup.picasso:picasso:2.71828] C:\Users\praja\.gradle\caches\transforms-3\4f7e645074673bed61baa91022127c1f\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+188            android:name="com.squareup.picasso.PicassoProvider"
+188-->[com.squareup.picasso:picasso:2.71828] C:\Users\praja\.gradle\caches\transforms-3\4f7e645074673bed61baa91022127c1f\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+189            android:authorities="com.example.tripapp.com.squareup.picasso"
+189-->[com.squareup.picasso:picasso:2.71828] C:\Users\praja\.gradle\caches\transforms-3\4f7e645074673bed61baa91022127c1f\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+190            android:exported="false" />
+190-->[com.squareup.picasso:picasso:2.71828] C:\Users\praja\.gradle\caches\transforms-3\4f7e645074673bed61baa91022127c1f\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+191
+192        <activity
+192-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:29:9-46:20
+193            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+193-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:30:13-80
+194            android:excludeFromRecents="true"
+194-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:31:13-46
+195            android:exported="true"
+195-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:32:13-36
+196            android:launchMode="singleTask"
+196-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:33:13-44
+197            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+197-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:34:13-72
+198            <intent-filter>
+198-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:35:13-45:29
+199                <action android:name="android.intent.action.VIEW" />
+199-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:36:17-69
+199-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:36:25-66
+200
+201                <category android:name="android.intent.category.DEFAULT" />
+201-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:38:17-76
+201-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:38:27-73
+202                <category android:name="android.intent.category.BROWSABLE" />
+202-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:39:17-78
+202-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:39:27-75
+203
+204                <data
+204-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:41:17-44:51
+205                    android:host="firebase.auth"
+205-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:42:21-49
+206                    android:path="/"
+206-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:43:21-37
+207                    android:scheme="genericidp" />
+207-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:44:21-48
+208            </intent-filter>
+209        </activity>
+210        <activity
+210-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:47:9-64:20
+211            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+211-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:48:13-79
+212            android:excludeFromRecents="true"
+212-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:49:13-46
+213            android:exported="true"
+213-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:50:13-36
+214            android:launchMode="singleTask"
+214-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:51:13-44
+215            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+215-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:52:13-72
+216            <intent-filter>
+216-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:53:13-63:29
+217                <action android:name="android.intent.action.VIEW" />
+217-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:36:17-69
+217-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:36:25-66
+218
+219                <category android:name="android.intent.category.DEFAULT" />
+219-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:38:17-76
+219-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:38:27-73
+220                <category android:name="android.intent.category.BROWSABLE" />
+220-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:39:17-78
+220-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:39:27-75
+221
+222                <data
+222-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:41:17-44:51
+223                    android:host="firebase.auth"
+223-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:42:21-49
+224                    android:path="/"
+224-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:43:21-37
+225                    android:scheme="recaptcha" />
+225-->[com.google.firebase:firebase-auth:21.2.0] C:\Users\praja\.gradle\caches\transforms-3\01f767a02225bdcf15c8b1dc69e66a13\transformed\jetified-firebase-auth-21.2.0\AndroidManifest.xml:44:21-48
+226            </intent-filter>
+227        </activity>
+228
+229        <provider
+229-->[com.google.firebase:firebase-common:20.3.2] C:\Users\praja\.gradle\caches\transforms-3\2a0fad2de11aae80af632de1808449b7\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+230            android:name="com.google.firebase.provider.FirebaseInitProvider"
+230-->[com.google.firebase:firebase-common:20.3.2] C:\Users\praja\.gradle\caches\transforms-3\2a0fad2de11aae80af632de1808449b7\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:26:13-77
+231            android:authorities="com.example.tripapp.firebaseinitprovider"
+231-->[com.google.firebase:firebase-common:20.3.2] C:\Users\praja\.gradle\caches\transforms-3\2a0fad2de11aae80af632de1808449b7\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:27:13-72
+232            android:directBootAware="true"
+232-->[com.google.firebase:firebase-common:20.3.2] C:\Users\praja\.gradle\caches\transforms-3\2a0fad2de11aae80af632de1808449b7\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+233            android:exported="false"
+233-->[com.google.firebase:firebase-common:20.3.2] C:\Users\praja\.gradle\caches\transforms-3\2a0fad2de11aae80af632de1808449b7\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:29:13-37
+234            android:initOrder="100" />
+234-->[com.google.firebase:firebase-common:20.3.2] C:\Users\praja\.gradle\caches\transforms-3\2a0fad2de11aae80af632de1808449b7\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:30:13-36
+235
+236        <receiver
+236-->[com.google.android.gms:play-services-measurement:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\e8ccdceab0c76d6f347b357f8c24e25a\transformed\jetified-play-services-measurement-21.2.1\AndroidManifest.xml:29:9-33:20
+237            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+237-->[com.google.android.gms:play-services-measurement:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\e8ccdceab0c76d6f347b357f8c24e25a\transformed\jetified-play-services-measurement-21.2.1\AndroidManifest.xml:30:13-85
+238            android:enabled="true"
+238-->[com.google.android.gms:play-services-measurement:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\e8ccdceab0c76d6f347b357f8c24e25a\transformed\jetified-play-services-measurement-21.2.1\AndroidManifest.xml:31:13-35
+239            android:exported="false" >
+239-->[com.google.android.gms:play-services-measurement:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\e8ccdceab0c76d6f347b357f8c24e25a\transformed\jetified-play-services-measurement-21.2.1\AndroidManifest.xml:32:13-37
+240        </receiver>
+241
+242        <service
+242-->[com.google.android.gms:play-services-measurement:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\e8ccdceab0c76d6f347b357f8c24e25a\transformed\jetified-play-services-measurement-21.2.1\AndroidManifest.xml:35:9-38:40
+243            android:name="com.google.android.gms.measurement.AppMeasurementService"
+243-->[com.google.android.gms:play-services-measurement:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\e8ccdceab0c76d6f347b357f8c24e25a\transformed\jetified-play-services-measurement-21.2.1\AndroidManifest.xml:36:13-84
+244            android:enabled="true"
+244-->[com.google.android.gms:play-services-measurement:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\e8ccdceab0c76d6f347b357f8c24e25a\transformed\jetified-play-services-measurement-21.2.1\AndroidManifest.xml:37:13-35
+245            android:exported="false" />
+245-->[com.google.android.gms:play-services-measurement:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\e8ccdceab0c76d6f347b357f8c24e25a\transformed\jetified-play-services-measurement-21.2.1\AndroidManifest.xml:38:13-37
+246        <service
+246-->[com.google.android.gms:play-services-measurement:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\e8ccdceab0c76d6f347b357f8c24e25a\transformed\jetified-play-services-measurement-21.2.1\AndroidManifest.xml:39:9-43:72
+247            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+247-->[com.google.android.gms:play-services-measurement:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\e8ccdceab0c76d6f347b357f8c24e25a\transformed\jetified-play-services-measurement-21.2.1\AndroidManifest.xml:40:13-87
+248            android:enabled="true"
+248-->[com.google.android.gms:play-services-measurement:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\e8ccdceab0c76d6f347b357f8c24e25a\transformed\jetified-play-services-measurement-21.2.1\AndroidManifest.xml:41:13-35
+249            android:exported="false"
+249-->[com.google.android.gms:play-services-measurement:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\e8ccdceab0c76d6f347b357f8c24e25a\transformed\jetified-play-services-measurement-21.2.1\AndroidManifest.xml:42:13-37
+250            android:permission="android.permission.BIND_JOB_SERVICE" />
+250-->[com.google.android.gms:play-services-measurement:21.2.1] C:\Users\praja\.gradle\caches\transforms-3\e8ccdceab0c76d6f347b357f8c24e25a\transformed\jetified-play-services-measurement-21.2.1\AndroidManifest.xml:43:13-69
+251
+252        <activity
+252-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\praja\.gradle\caches\transforms-3\03620ac658df2a287bbba0e16dfa8ce7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+253            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+253-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\praja\.gradle\caches\transforms-3\03620ac658df2a287bbba0e16dfa8ce7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+254            android:exported="false"
+254-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\praja\.gradle\caches\transforms-3\03620ac658df2a287bbba0e16dfa8ce7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+255            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+255-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\praja\.gradle\caches\transforms-3\03620ac658df2a287bbba0e16dfa8ce7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+256
+257        <meta-data
+257-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\praja\.gradle\caches\transforms-3\e84576fa56bf2fee96ffa9bde6eb8b0d\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+258            android:name="com.google.android.gms.version"
+258-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\praja\.gradle\caches\transforms-3\e84576fa56bf2fee96ffa9bde6eb8b0d\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+259            android:value="@integer/google_play_services_version" />
+259-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\praja\.gradle\caches\transforms-3\e84576fa56bf2fee96ffa9bde6eb8b0d\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+260
+261        <provider
+261-->[androidx.emoji2:emoji2:1.2.0] C:\Users\praja\.gradle\caches\transforms-3\a641a86ced864a0068268496286719cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+262            android:name="androidx.startup.InitializationProvider"
+262-->[androidx.emoji2:emoji2:1.2.0] C:\Users\praja\.gradle\caches\transforms-3\a641a86ced864a0068268496286719cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+263            android:authorities="com.example.tripapp.androidx-startup"
+263-->[androidx.emoji2:emoji2:1.2.0] C:\Users\praja\.gradle\caches\transforms-3\a641a86ced864a0068268496286719cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+264            android:exported="false" >
+264-->[androidx.emoji2:emoji2:1.2.0] C:\Users\praja\.gradle\caches\transforms-3\a641a86ced864a0068268496286719cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+265            <meta-data
+265-->[androidx.emoji2:emoji2:1.2.0] C:\Users\praja\.gradle\caches\transforms-3\a641a86ced864a0068268496286719cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+266                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+266-->[androidx.emoji2:emoji2:1.2.0] C:\Users\praja\.gradle\caches\transforms-3\a641a86ced864a0068268496286719cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+267                android:value="androidx.startup" />
+267-->[androidx.emoji2:emoji2:1.2.0] C:\Users\praja\.gradle\caches\transforms-3\a641a86ced864a0068268496286719cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+268            <meta-data
+268-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\praja\.gradle\caches\transforms-3\b369bfbc0941e1ef0477007e5533ba66\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+269                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+269-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\praja\.gradle\caches\transforms-3\b369bfbc0941e1ef0477007e5533ba66\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+270                android:value="androidx.startup" />
+270-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\praja\.gradle\caches\transforms-3\b369bfbc0941e1ef0477007e5533ba66\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+271        </provider>
+272    </application>
+273
+274</manifest>

@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_activity_rcard4.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\activity_rcard4.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_login.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_dinner.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\dinner.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_backbutton.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\backbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_google.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_varansai3.jpeg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\varansai3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_notification.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_goa3.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\goa3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_email.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\email.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-pngs-29:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_setting.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_activity_rcard3.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\activity_rcard3.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_settingicon.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\settingicon.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_varanasi2.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\varanasi2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_rcardback1.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\rcardback1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_blur.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\blur.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_goa2.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\goa2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_pcard22.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\pcard22.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_search_bg.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\search_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_activity_rcard2.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\activity_rcard2.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_line.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\line.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_signup.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\signup.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_star1.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\star1.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_bed.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\bed.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_fragment_booked.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\fragment_booked.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_gradient_backgroung.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\gradient_backgroung.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_fragment_message.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_bluestroke.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\bluestroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_password.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\password.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_activity_form.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\activity_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_search_list_view.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\search_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\font_rubik_light.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\font\\rubik_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_cardnew.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\cardnew.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_card.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\card.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_activity_pcard3.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\activity_pcard3.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_rightarrow.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\rightarrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_udaipur.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\udaipur.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_dallake2.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\dallake2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_linebackground.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\linebackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_user.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\user.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_goa.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\goa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_location.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\location.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_kodaikanal.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\kodaikanal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_booked.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\booked.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_activity_pcard4.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\activity_pcard4.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\menu_nav_item.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\menu\\nav_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_emptyfile.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\emptyfile.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_ladak3.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\ladak3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_heart.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_booknow.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\booknow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_guide.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\guide.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_book_list_view.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\book_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_manali.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\manali.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_pcrad3.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\pcrad3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_image_list_view.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\image_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_coorg.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\coorg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_shape.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_chail.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\chail.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_money.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\money.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_bigline.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\bigline.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_arrow.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\arrow.xml"
+    },
+    {
+        "merged": "com.example.tripapp-merged_res-34:/layout_activity_search.xml.flat",
+        "source": "com.example.tripapp-main-36:/layout/activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_activity_pcard1.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\activity_pcard1.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_ladak2.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\ladak2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_img.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_pcrad4.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\pcrad4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_fragment_setting.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_activity_pcard2.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\activity_pcard2.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_ladakh.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\ladakh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_backarrow.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\backarrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_pcard1.jpeg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\pcard1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_activity_rcard1.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\activity_rcard1.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_star.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\star.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_person.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\person.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_dallake3.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\dallake3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\layout_activity_profil.xml.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\layout\\activity_profil.xml"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_bhimtal.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\bhimtal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_varanasi.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\varanasi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-debug-35:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_dallake.png.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\dallake.png"
+    },
+    {
+        "merged": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-merged_res-34:\\drawable_forgot.jpg.flat",
+        "source": "C:\\Users\\praja\\.gradle\\daemon\\7.4\\com.example.tripapp-main-36:\\drawable\\forgot.jpg"
+    }
+]

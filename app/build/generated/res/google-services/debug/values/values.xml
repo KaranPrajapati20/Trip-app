@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1083842440969-leok3f6flcjskrcbl83mr1asupvfh2n9.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1083842440969</string>
+    <string name="google_api_key" translatable="false">AIzaSyD70oA6B-ev8cTJr8Zf_zWYi8RCPkXETAI</string>
+    <string name="google_app_id" translatable="false">1:1083842440969:android:c108c1f4c1e09cfcbc2dd8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD70oA6B-ev8cTJr8Zf_zWYi8RCPkXETAI</string>
+    <string name="google_storage_bucket" translatable="false">tripapp-3adda.appspot.com</string>
+    <string name="project_id" translatable="false">tripapp-3adda</string>
+</resources>
