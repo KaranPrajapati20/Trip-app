@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyTripMate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="setting">A number of organizations within the Wikimedia movement including the Wikimedia Foundation publish official mobile apps for mobile access to Wikipedia. All are available via the appropriate app store (e.g. Google Play, App Store, Microsoft Store, F-Droid). They can also be downloaded independently of any third-party store, from the Wikimedia Foundation</string>
+    <string name="desc1">On August 6, 2014, Priceline.com, announced that it will invest $500 million in the company to broaden the companies’ options in China. Priceline and Ctrip, which have had a commincrease their cross-promotion of each company\'s hotel inventory and other travel services, the companies said in a statement On August 6, 2014, Priceline.com, announced that it will invest $500 million in the company to broaden the companies’ options in China. Priceline and Ctrip, which have had a commincrease their cross-promotion of each company\'s hotel inventory and other travel services, the companies said in a statement On August 6, 2014, Priceline.com, announced that it will invest $500 million in the company to broaden the companies’ options in China. Priceline and Ctrip, which have had a commincrease their cross-promotion</string>
+    <string-array name="number">
+        <item>Manali</item>
+        <item>spain</item>
+        <item>dal lake</item>
+        <item>ladakh</item>
+    </string-array>
+</resources>
